@@ -5,11 +5,15 @@ Current Match
 
 
 
-Schedule
+
 GROUP STAGE		(time in BST) 	
+
 Date	              Match	                              Venue	              Kick-off (BST)
+
 Thursday June 14	  Russia v Saudi Arabia (A)	          Moscow (Luzhniki)	  4pm
+
 Friday June 15	    Egypt v Uruguay (A)	                Ekaterinburg	      1pm
+
 Friday June 15	    Morocco v Iran (B)	 St Petersburg	 4pm
 Friday June 15	    Portugal v Spain (B)	 Sochi	 7pm
 Saturday June 16	  France v Australia (C)	 Kazan	 11am
